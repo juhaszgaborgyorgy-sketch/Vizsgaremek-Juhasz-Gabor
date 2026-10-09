@@ -1,0 +1,11 @@
+C:\Users\juhász gábor\source\repos\autok\autok\obj\Debug\autok.csproj.AssemblyReference.cache
+C:\Users\juhász gábor\source\repos\autok\autok\obj\Debug\autok.Form1.resources
+C:\Users\juhász gábor\source\repos\autok\autok\obj\Debug\autok.Properties.Resources.resources
+C:\Users\juhász gábor\source\repos\autok\autok\obj\Debug\autok.csproj.GenerateResource.cache
+C:\Users\juhász gábor\source\repos\autok\autok\obj\Debug\autok.csproj.CoreCompileInputs.cache
+C:\Users\juhász gábor\source\repos\autok\autok\bin\Debug\autok.exe.config
+C:\Users\juhász gábor\source\repos\autok\autok\bin\Debug\autok.exe
+C:\Users\juhász gábor\source\repos\autok\autok\bin\Debug\autok.pdb
+C:\Users\juhász gábor\source\repos\autok\autok\obj\Debug\autok.exe
+C:\Users\juhász gábor\source\repos\autok\autok\obj\Debug\autok.pdb
+C:\Users\juhász gábor\source\repos\autok\autok\obj\Debug\autok.exe.config
