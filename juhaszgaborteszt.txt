@@ -1,0 +1,27 @@
+WEBPROGRAMOZÁS – 20 FELADAT
+Név: Juhász Gábor
+Osztály: 13.Im
+Eredmény: 14/20 (70%)
+Kitöltve: 18/20
+Dátum: 2026. 11. 02. 9:02:40
+
+1. HELYES | Válasz: 0
+2. HELYES | Válasz: 1
+3. HELYES | Válasz: img
+4. HELYES | Válasz: 1
+5. HELYES | Válasz: select
+6. HELYES | Válasz: 0
+7. HELYES | Válasz: value
+8. HELYES | Válasz: 2
+9. HELYES | Válasz: background-color
+10. HELYES | Válasz: 1
+11. HELYES | Válasz: text-align
+12. HIBÁS | Válasz: 0
+13. HIBÁS | Válasz: font-size
+14. HIBÁS | Válasz: 3
+15. HIBÁS | Válasz: parseInt
+16. HELYES | Válasz: 1
+17. HIBÁS | Válasz: (üres)
+18. HELYES | Válasz: 1
+19. HIBÁS | Válasz: (üres)
+20. HELYES | Válasz: 1
